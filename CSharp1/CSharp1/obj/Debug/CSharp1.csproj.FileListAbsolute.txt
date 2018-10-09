@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\Languages\C#\CSharp1\CSharp1\obj\Debug\CSharp1.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp1\CSharp1\obj\Debug\CSharp1.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp1\CSharp1\bin\Debug\CSharp1.exe.config
+C:\Users\Luke\Desktop\Languages\C#\CSharp1\CSharp1\bin\Debug\CSharp1.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp1\CSharp1\bin\Debug\CSharp1.pdb
+C:\Users\Luke\Desktop\Languages\C#\CSharp1\CSharp1\obj\Debug\CSharp1.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp1\CSharp1\obj\Debug\CSharp1.pdb

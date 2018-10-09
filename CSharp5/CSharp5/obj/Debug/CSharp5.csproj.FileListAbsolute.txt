@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\Languages\C#\CSharp5\CSharp5\bin\Debug\CSharp5.exe.config
+C:\Users\Luke\Desktop\Languages\C#\CSharp5\CSharp5\bin\Debug\CSharp5.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp5\CSharp5\bin\Debug\CSharp5.pdb
+C:\Users\Luke\Desktop\Languages\C#\CSharp5\CSharp5\obj\Debug\CSharp5.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp5\CSharp5\obj\Debug\CSharp5.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp5\CSharp5\obj\Debug\CSharp5.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp5\CSharp5\obj\Debug\CSharp5.pdb
