@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\Languages\C#\CSharp11\CSharp11\bin\Debug\CSharp11.exe.config
+C:\Users\Luke\Desktop\Languages\C#\CSharp11\CSharp11\bin\Debug\CSharp11.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp11\CSharp11\bin\Debug\CSharp11.pdb
+C:\Users\Luke\Desktop\Languages\C#\CSharp11\CSharp11\obj\Debug\CSharp11.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp11\CSharp11\obj\Debug\CSharp11.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp11\CSharp11\obj\Debug\CSharp11.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp11\CSharp11\obj\Debug\CSharp11.pdb

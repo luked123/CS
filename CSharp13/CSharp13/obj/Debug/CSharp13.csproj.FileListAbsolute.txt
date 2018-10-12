@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\Languages\C#\CSharp13\CSharp13\bin\Debug\CSharp13.exe.config
+C:\Users\Luke\Desktop\Languages\C#\CSharp13\CSharp13\bin\Debug\CSharp13.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp13\CSharp13\bin\Debug\CSharp13.pdb
+C:\Users\Luke\Desktop\Languages\C#\CSharp13\CSharp13\obj\Debug\CSharp13.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp13\CSharp13\obj\Debug\CSharp13.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp13\CSharp13\obj\Debug\CSharp13.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp13\CSharp13\obj\Debug\CSharp13.pdb

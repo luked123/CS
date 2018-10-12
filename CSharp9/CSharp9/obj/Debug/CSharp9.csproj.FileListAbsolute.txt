@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\Languages\C#\CSharp9\CSharp9\bin\Debug\CSharp9.exe.config
+C:\Users\Luke\Desktop\Languages\C#\CSharp9\CSharp9\bin\Debug\CSharp9.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp9\CSharp9\bin\Debug\CSharp9.pdb
+C:\Users\Luke\Desktop\Languages\C#\CSharp9\CSharp9\obj\Debug\CSharp9.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp9\CSharp9\obj\Debug\CSharp9.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp9\CSharp9\obj\Debug\CSharp9.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp9\CSharp9\obj\Debug\CSharp9.pdb

@@ -1,0 +1,14 @@
+C:\Users\Luke\Desktop\Languages\C#\CSharp8\CSharp8\bin\Debug\CSharp8.exe.config
+C:\Users\Luke\Desktop\Languages\C#\CSharp8\CSharp8\bin\Debug\CSharp8.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp8\CSharp8\bin\Debug\CSharp8.pdb
+C:\Users\Luke\Desktop\Languages\C#\CSharp8\CSharp8\obj\Debug\CSharp8.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp8\CSharp8\obj\Debug\CSharp8.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Languages\C#\CSharp8\CSharp8\obj\Debug\CSharp8.exe
+C:\Users\Luke\Desktop\Languages\C#\CSharp8\CSharp8\obj\Debug\CSharp8.pdb
+C:\Users\Luke\Desktop\Languages\CS\CSharp8\CSharp8\bin\Debug\CSharp8.exe.config
+C:\Users\Luke\Desktop\Languages\CS\CSharp8\CSharp8\bin\Debug\CSharp8.exe
+C:\Users\Luke\Desktop\Languages\CS\CSharp8\CSharp8\bin\Debug\CSharp8.pdb
+C:\Users\Luke\Desktop\Languages\CS\CSharp8\CSharp8\obj\Debug\CSharp8.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\Languages\CS\CSharp8\CSharp8\obj\Debug\CSharp8.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Languages\CS\CSharp8\CSharp8\obj\Debug\CSharp8.exe
+C:\Users\Luke\Desktop\Languages\CS\CSharp8\CSharp8\obj\Debug\CSharp8.pdb
